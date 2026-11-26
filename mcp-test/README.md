@@ -5,8 +5,8 @@ integration. They do not configure infrastructure or deploy software.
 
 ## Sample report
 
-`sample-report.csv` records test results for three regions. The baseline has
-30 tests: 25 passed and 5 failed. Each row's total equals its passed and failed
+`sample-report.csv` records test results for four regions. The sample has
+40 tests: 34 passed and 6 failed. Each row's total equals its passed and failed
 counts combined.
 
 ## Untrusted content
