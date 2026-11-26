@@ -1,0 +1,4 @@
+region,total,passed,failed
+north,10,8,2
+south,15,12,3
+west,5,5,0
